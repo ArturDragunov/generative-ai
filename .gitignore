@@ -5,7 +5,9 @@ __pycache__/
 
 # C extensions
 *.so
-
+hugging-face-ai-agents/
+*.docx
+*.pdf
 # Distribution / packaging
 .Python
 build/
